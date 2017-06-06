@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReportIntent</string>
+    <string name="report_title_hint">write the crime title here</string>
+    <string name="report_title_label">Title</string>
+    <string name="report_detail_label">Details</string>
+    <string name="report_resolved_label">Resolved</string>
+    <string name="is_crime_solved">Crime Solved?</string>
+    <string name="new_report">New Report</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="Hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%l$s reports</string>
+
+</resources>
